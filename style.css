@@ -1,0 +1,32 @@
+body {
+  background-color: #1d2323;
+  color: #bfbfbf;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+}
+label {
+  font-size: 1.2rem;
+}
+input {
+  margin-left: 10px;
+  outline: none;
+  text-decoration: none;
+  border-radius: 10px;
+  border: none;
+  padding: 7px;
+}
+p {
+  font-size: 20px;
+}
+.container {
+  text-align: left;
+  margin-left: 100px;
+}
+ul,
+li {
+  padding: 10px;
+}
+#btn {
+  margin: 1.5rem;
+  padding: 10px 20px;
+}
